@@ -1,0 +1,3 @@
+Before running any of the SQL to setup the database, make sure you
+disable strict mode by:
+SET sql_mode = '';

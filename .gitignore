@@ -1,0 +1,12 @@
+__pycache__/
+20-Books/
+*.DS_Store
+venv/
+.idea/
+
+### Vim template
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
